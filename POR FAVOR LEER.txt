@@ -1,0 +1,12 @@
+Descomprimir el .zip 
+
+El programa al descargarlo no tiene un acceso directo, así que recomiendo agregarlo, es muy sencillo.
+
+Pasos para el acceso directo en caso de que no sepas hacerlo: 
+1.-Click derecho al archivo "IpChanger" 
+2.-Click en "Crear acceso directo"
+3.-Mover el acceso directo al escritorio.
+
+El archivo "IpChange(WinCMD).py" es el código en caso de que quieran ejecutar el código desde el CMD de Windows
+
+Disfruten el programa
